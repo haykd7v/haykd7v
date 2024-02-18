@@ -1,8 +1,8 @@
 ## Hello!! l`m Wallace Magalhães
 
-- 🔭 I’m currently studying back-end 
-- 🌱 learning NodeJS,TypescriptJS,Java,SpringBoot
-- 📫 Contact-me via e-mail: euwallacee1@gmail.com
+- 🌱 I’m currently studying web development with React.js,Node.js and Typescript
+- 🔍 Looking for a internship as a full stack developer
+- 📫 Contact me: euwallacee1@gmail.com
 - 😄 Pronouns: he/him
  <div>
   <a href="https://github.com/haykd7v">
