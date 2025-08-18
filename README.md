@@ -22,7 +22,7 @@
   <img align="center" alt="Wallace-PostgreeSQL" title="PostgreeSQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
   <img align="center" alt="Wallace-Django" title="Django" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg">
   <img align="center" alt="Wallace-Python" title="Python" height="30" width="40" src="https://iconscout.com/pt/free-icon/python-2_226051">
-  <img align="center" alt="Wallace-MYSQL" title="MySQL" height="30" width="40" src="https://iconscout.com/pt/free-icon/mysql-3628940_3030165" />
+  <img align="center" alt="Wallace-MYSQL" title="MySQL" height="30" width="40" src="https://cdn.iconscout.com/icon/free/png-512/free-mysql-3628940-3030165.png?f=webp&w=256" />
           
           
 </div>
