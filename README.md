@@ -1,6 +1,6 @@
 ## Hello!! l`m Wallace Magalhães
 
-- 🌱 I’m currently studying web development with React.js,Node.js and Typescript
+- 🌱 I’m currently studying web development with React.js,Node.js and Typescript and Data Analysis with SQL,Python,Excel
 - 🔍 Looking for a internship as a full stack developer
 - 📫 Contact me: euwallacee1@gmail.com
 - 😄 Pronouns: he/him
@@ -21,8 +21,8 @@
   <img align="center" alt="Wallace-MongoDB" title="MongoDB" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg">
   <img align="center" alt="Wallace-PostgreeSQL" title="PostgreeSQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
   <img align="center" alt="Wallace-Django" title="Django" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg">
-  <img align="center" alt="Wallace-Java" title="Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
-  <img align="center" alt="Wallace-Spring" title="Spring" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
+  <img align="center" alt="Wallace-Python" title="Python" height="30" width="40" src="https://iconscout.com/pt/free-icon/python-2_226051">
+  <img align="center" alt="Wallace-MYSQL" title="MySQL" height="30" width="40" src="https://iconscout.com/pt/free-icon/mysql-3628940_3030165" />
           
           
 </div>
