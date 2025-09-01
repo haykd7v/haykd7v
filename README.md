@@ -12,7 +12,7 @@
 
   </div>
   <div style="display: inline_block"><br>
-  <img align="center" alt="Wallace-Excel" height="30" width="40" src="https://icons.veryicon.com/png/o/application/skills-section/microsoft-excel-10.png)">
+  <img align="center" alt="Wallace-Excel" height="30" width="40" src="https://icons.veryicon.com/png/o/application/skills-section/microsoft-excel-10.png">
   <img align="center" alt="Wallace-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Wallace-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Wallace-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
