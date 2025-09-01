@@ -1,7 +1,7 @@
 ## Hello!! l`m Wallace Magalhães
 
 - 🌱 I’m currently studying Data Analysis with SQL,Python,Excel,Pandas,Power BI
-- 🔍 Looking for a internship as a full stack developer
+- 🔍 Looking for a internship as a Data Analyst
 - 📫 Contact me: euwallacee1@gmail.com
 - 😄 Pronouns: he/him
  <div>
